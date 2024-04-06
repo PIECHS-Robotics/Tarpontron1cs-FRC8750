@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello, this account is for the Port Isabel High School Robotics teams: FRC 8750 - Tarpontron1cs and FTC 23956 Silver King Cyborgs. The teams are lead by Mr. Rincones. He teaches Math, Computer Science, and Cybersecurity. 
+
 <!--
 **Tarpontron1cs-FRC8750/Tarpontron1cs-FRC8750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
